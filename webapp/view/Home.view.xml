@@ -1,0 +1,8 @@
+<mvc:View controllerName="demoapp.demo.controller.Home"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    <Label id="labelId" text="Hola Putos del Mundo" ></Label>
+    <Button id="btnId"  press="onClick" text="Click Here" type="Reject" ></Button>
+    </Page>
+</mvc:View>
