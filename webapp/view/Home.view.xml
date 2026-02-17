@@ -3,7 +3,7 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
     <Label id="labelId" text="Hola Putos del Mundo Probando Git" ></Label>
-            <Label id="labelId" text="Editando App en GitHub para probar el Pull desde el SAP BAS" ></Label>
+            <Label id="labe" text="Editando App en GitHub para probar el Pull desde el SAP BAS" ></Label>
     <Button id="btnId"  press="onClick" text="Click Here" type="Reject" ></Button>
     </Page>
 </mvc:View>
